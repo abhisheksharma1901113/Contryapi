@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+
+} 
+.center{
+    width: 70%;
+    margin: auto;
+}
+.first{
+    width: 100%;
+}
+.input{
+    width: 85%;
+    padding: 10px 0;
+}
+ button{
+    width: 14%;
+    padding: 10px 0;
+    background-color: green;
+    color: white;
+    border: none;
+}
+form{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between ;
+}
+table{
+    width: 100%;
+}
+.second{
+    width: 100%;
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+tr{
+    background-color: beige;
+      
+
+}
+tr:nth-child(even){
+    background-color: rgb(184,184,180);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#heading{
+    color:white;
+    background-color: green;
+}
